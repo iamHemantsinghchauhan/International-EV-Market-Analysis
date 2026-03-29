@@ -1,4 +1,6 @@
 # 🚗 International EV Market Analysis Dashboard
+![OIP](https://github.com/user-attachments/assets/6dfe829d-97f2-4e28-bf75-e0951b493227)
+
 
 ## 📌 Executive Summary
 
